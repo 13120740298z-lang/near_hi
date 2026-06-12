@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">碰一碰聊天</string>
+    <string name="tab_friends">好友</string>
+    <string name="tab_bump">碰一碰</string>
+    <string name="btn_bump">碰一碰加好友</string>
+    <string name="bump_hint">将两部手机轻轻碰一下</string>
+    <string name="bump_listening">正在监听碰撞…</string>
+    <string name="bump_scanning">碰撞检测到！正在扫描附近设备…</string>
+    <string name="no_friends">还没有好友\n去"碰一碰"添加好友吧</string>
+    <string name="no_messages">暂无消息</string>
+    <string name="hint_message">输入消息（最多200字符）…</string>
+    <string name="btn_send">发送</string>
+    <string name="delivered">已送达</string>
+    <string name="not_delivered">未送达</string>
+    <string name="edit_profile">编辑资料</string>
+    <string name="nickname_hint">输入昵称</string>
+    <string name="save">保存</string>
+    <string name="delete_friend">删除好友</string>
+    <string name="delete_confirm">确定要删除该好友吗？</string>
+    <string name="permission_bluetooth">需要蓝牙权限才能使用此功能</string>
+    <string name="permission_location">需要位置权限才能扫描蓝牙设备</string>
+    <string name="permission_notification">需要通知权限以保持后台运行</string>
+    <string name="bluetooth_required">请先开启蓝牙</string>
+</resources>
